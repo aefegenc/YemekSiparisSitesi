@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|c:\\users\\lenovo\\desktop\\uzmanl\u0131k\\yemeksiparisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF98FD4-7FC2-4BBA-8F9B-2A4CF81BF09B}|YemekSiparis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:21:56.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:24:08.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:19:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:04:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:04:05.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAKEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T13:04:05.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:04:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T13:04:05.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Models\\AdminModel.cs",
+              "RelativeToolTip": "Models\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:23:42.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Uzmanl\u0131k\\YemekSiparisApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:04:05.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

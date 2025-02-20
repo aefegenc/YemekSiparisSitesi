@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/obj/Debug/net8.0/scopedcss/projectbundle/YemekSiparis.bundle.scp.css",
+      "PackagePath": "staticwebassets/YemekSiparis.v6gwub90tg.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/css/ajax-loader.gif",
+      "PackagePath": "staticwebassets/css/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/css/normalize.css",
+      "PackagePath": "staticwebassets/css/normalize.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/css/vendor.css",
+      "PackagePath": "staticwebassets/css/vendor.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/banner-1.jpg",
+      "PackagePath": "staticwebassets/images/banner-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/banner-ad-1.jpg",
+      "PackagePath": "staticwebassets/images/banner-ad-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/banner-ad-2.jpg",
+      "PackagePath": "staticwebassets/images/banner-ad-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/banner-ad-3.jpg",
+      "PackagePath": "staticwebassets/images/banner-ad-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/banner-newsletter.jpg",
+      "PackagePath": "staticwebassets/images/banner-newsletter.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/banner-onlineapp.png",
+      "PackagePath": "staticwebassets/images/banner-onlineapp.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-1.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-2.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-3.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-4.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-5.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-6.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-6.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-7.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-7.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/category-thumb-8.jpg",
+      "PackagePath": "staticwebassets/images/category-thumb-8.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/img-app-store.png",
+      "PackagePath": "staticwebassets/images/img-app-store.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/img-google-play.png",
+      "PackagePath": "staticwebassets/images/img-google-play.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/img-login.jpg",
+      "PackagePath": "staticwebassets/images/img-login.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/logo.svg",
+      "PackagePath": "staticwebassets/images/logo.svg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/post-thumbnail-1.jpg",
+      "PackagePath": "staticwebassets/images/post-thumbnail-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/post-thumbnail-2.jpg",
+      "PackagePath": "staticwebassets/images/post-thumbnail-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/post-thumbnail-3.jpg",
+      "PackagePath": "staticwebassets/images/post-thumbnail-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-large-1.jpg",
+      "PackagePath": "staticwebassets/images/product-large-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-large-2.jpg",
+      "PackagePath": "staticwebassets/images/product-large-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-large-3.jpg",
+      "PackagePath": "staticwebassets/images/product-large-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-large-4.jpg",
+      "PackagePath": "staticwebassets/images/product-large-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-large-5.jpg",
+      "PackagePath": "staticwebassets/images/product-large-5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-1.png",
+      "PackagePath": "staticwebassets/images/product-thumb-1.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-10.png",
+      "PackagePath": "staticwebassets/images/product-thumb-10.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-11.png",
+      "PackagePath": "staticwebassets/images/product-thumb-11.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-12.png",
+      "PackagePath": "staticwebassets/images/product-thumb-12.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-13.png",
+      "PackagePath": "staticwebassets/images/product-thumb-13.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-14.png",
+      "PackagePath": "staticwebassets/images/product-thumb-14.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-15.png",
+      "PackagePath": "staticwebassets/images/product-thumb-15.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-16.png",
+      "PackagePath": "staticwebassets/images/product-thumb-16.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-17.png",
+      "PackagePath": "staticwebassets/images/product-thumb-17.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-18.png",
+      "PackagePath": "staticwebassets/images/product-thumb-18.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-19.png",
+      "PackagePath": "staticwebassets/images/product-thumb-19.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-2.png",
+      "PackagePath": "staticwebassets/images/product-thumb-2.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-20.png",
+      "PackagePath": "staticwebassets/images/product-thumb-20.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-21.png",
+      "PackagePath": "staticwebassets/images/product-thumb-21.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-22.png",
+      "PackagePath": "staticwebassets/images/product-thumb-22.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-23.png",
+      "PackagePath": "staticwebassets/images/product-thumb-23.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-24.png",
+      "PackagePath": "staticwebassets/images/product-thumb-24.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-25.png",
+      "PackagePath": "staticwebassets/images/product-thumb-25.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-26.png",
+      "PackagePath": "staticwebassets/images/product-thumb-26.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-27.png",
+      "PackagePath": "staticwebassets/images/product-thumb-27.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-28.png",
+      "PackagePath": "staticwebassets/images/product-thumb-28.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-29.png",
+      "PackagePath": "staticwebassets/images/product-thumb-29.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-3.png",
+      "PackagePath": "staticwebassets/images/product-thumb-3.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-30.png",
+      "PackagePath": "staticwebassets/images/product-thumb-30.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-4.png",
+      "PackagePath": "staticwebassets/images/product-thumb-4.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-5.png",
+      "PackagePath": "staticwebassets/images/product-thumb-5.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-6.png",
+      "PackagePath": "staticwebassets/images/product-thumb-6.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-7.png",
+      "PackagePath": "staticwebassets/images/product-thumb-7.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-8.png",
+      "PackagePath": "staticwebassets/images/product-thumb-8.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumb-9.png",
+      "PackagePath": "staticwebassets/images/product-thumb-9.png"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumbnail-1.jpg",
+      "PackagePath": "staticwebassets/images/product-thumbnail-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumbnail-2.jpg",
+      "PackagePath": "staticwebassets/images/product-thumbnail-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumbnail-3.jpg",
+      "PackagePath": "staticwebassets/images/product-thumbnail-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumbnail-4.jpg",
+      "PackagePath": "staticwebassets/images/product-thumbnail-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/product-thumbnail-5.jpg",
+      "PackagePath": "staticwebassets/images/product-thumbnail-5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/reviewer-1.jpg",
+      "PackagePath": "staticwebassets/images/reviewer-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/reviewer-2.jpg",
+      "PackagePath": "staticwebassets/images/reviewer-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/reviewer-3.jpg",
+      "PackagePath": "staticwebassets/images/reviewer-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/sample-image-2.jpg",
+      "PackagePath": "staticwebassets/images/sample-image-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/images/sample-image.jpg",
+      "PackagePath": "staticwebassets/images/sample-image.jpg"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/js/jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets/js/jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/js/modernizr.js",
+      "PackagePath": "staticwebassets/js/modernizr.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/js/plugins.js",
+      "PackagePath": "staticwebassets/js/plugins.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/readme.txt",
+      "PackagePath": "staticwebassets/readme.txt"
+    },
+    {
+      "Id": "/Users/ahmetefegenc/Desktop/Works/Uzmanlik/YemekSiparisApp/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.YemekSiparis.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.YemekSiparis.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.YemekSiparis.props",
+      "PackagePath": "build\\YemekSiparis.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.YemekSiparis.props",
+      "PackagePath": "buildMultiTargeting\\YemekSiparis.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.YemekSiparis.props",
+      "PackagePath": "buildTransitive\\YemekSiparis.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
